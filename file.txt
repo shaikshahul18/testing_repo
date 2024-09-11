@@ -1,5 +1,10 @@
 apple
 mango
+
+fork
+clone
+messi
+ronaldo
 guava
 strawberry
 mango
